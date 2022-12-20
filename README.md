@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/900/1*UXXypVvI1E_EwbEyR3rD_w.png)
+![MasterHead](https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg)
 ![mrYigiter's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrYigiter&show_icons=true&theme=tokyonight)
 
 Snake eating my contribution graphs
