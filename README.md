@@ -1,4 +1,4 @@
-![MasterHead](https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg)
+![MasterHead](https://univerlist.com/media/uploads/2018/05/24/java-code-with-logo-feature_1290x688_ms.jpg)
 ![mrYigiter's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrYigiter&show_icons=true&theme=tokyonight)
 
 Snake eating my contribution graphs
